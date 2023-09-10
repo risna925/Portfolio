@@ -61,7 +61,7 @@ section.hero-section {
   color: #fff;
   display: flex;
   align-items: center;
-  padding: 80px 120px 80px 200px;
+  padding: 50px 120px 30px 200px;
 }
 
 .hero-section__title {
@@ -72,22 +72,12 @@ section.hero-section {
   color: #c4c4c4;
 }
 
-.hero-img {
-  background: var(--primary);
-  background: -webkit-radial-gradient(circle, #12bdff 0%, #0c8ec2 100%);
-  background: radial-gradient(circle, #12bdff 0%, #0c8ec2 100%);
-  margin-left: 18px;
-  border-radius: 50%;
-  box-shadow: -0.5px 0.5px 11.5px 5.5px #12bdff;
-}
-
 .hero-img img {
-  padding: 8px;
-  border-radius: 50%;
+  border-radius: 15px;
 }
 
 .social-icons {
-  margin: 20px 0;
+  margin: 18px 0;
 }
 
 ul.social-icons {
