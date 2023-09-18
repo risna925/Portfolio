@@ -211,6 +211,11 @@ section.about-section {
   font-size: 15px;
 }
 
+.about-content button > a {
+  text-decoration: none;
+  color: var(--dark-primary);
+}
+
 /* Projects Section */
 section.projects-section {
   background-color: var(--dark-primary);
